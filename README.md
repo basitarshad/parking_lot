@@ -1,6 +1,3 @@
-Certainly! Here's a template for a `README.md` file for your project:
-
----
 
 # Parking Lot Management System
 
